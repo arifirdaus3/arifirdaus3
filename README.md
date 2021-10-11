@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @arifirdaus3
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning modern Technologies such as Vue and React
-- 📫 How to reach me -> af.arifirdaus@gmail.com
+How to reach me -> af.arifirdaus@gmail.com
